@@ -9,15 +9,12 @@
 #title {
     background: yellow;
     /*add CSS here*/
-    margin-top: 3.0rem;
-    margin-bottom: 3.0rem;
-    margin-left:250px;
-    padding-left:20px;
-    padding-right:20px;
-    padding-top: 50px;
-    width:800px;
-    height:150px;
+    margin:100px 200px ;
+    margin-bottom:25px;
+    padding:50px 100px ;
     
+    
+  
     
 }
 
@@ -25,12 +22,18 @@
     background: black;
     color: white;
     /*add CSS here*/
+    margin:20px 200px;
+   margin-bottom:25px;
+   padding:25px 100px;
     
 }
 
 .topic {
     background: lightgray;
     /*add CSS here*/
+    display:inline-block;
+    margin:40px 150px;
+    padding: 5px 10px;
     
 }
 
